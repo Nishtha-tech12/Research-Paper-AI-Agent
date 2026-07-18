@@ -11,6 +11,3 @@ groq
 keybert
 scikit-learn
 matplotlib
-tqdm
-ipywidgets
-jupyter
