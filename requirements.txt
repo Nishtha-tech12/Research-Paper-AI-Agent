@@ -1,0 +1,16 @@
+numpy
+pandas
+faiss-cpu
+sentence-transformers
+transformers
+torch
+langchain
+langchain-community
+langchain-groq
+groq
+keybert
+scikit-learn
+matplotlib
+tqdm
+ipywidgets
+jupyter
